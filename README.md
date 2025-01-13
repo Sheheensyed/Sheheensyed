@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sheheensyed
 - 👀 I’m interested in React developer
 - 🌱 I’m currently learning MERN stack
-- <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me sheheensyedk@gmail.com 
+- <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
