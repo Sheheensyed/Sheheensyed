@@ -2,7 +2,7 @@
 - 👀 I’m interested in React developer
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me sheheensyedk@gmail.com 
-- <!--- - 💞️ I’m looking to collaborate on ... --->
+ <!--- - - 💞️ I’m looking to collaborate on ... --->
 <!--- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
